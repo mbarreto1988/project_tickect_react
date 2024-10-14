@@ -1,0 +1,1 @@
+en este componente van a ir los componentes que van a ser reutilizados en varias partes, ej: el header con el logo y un buscador navbar etc
